@@ -139,3 +139,7 @@ This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/mast
 ---
 
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
+---
+
+Based on [readme-md-generator](https://github.com/kefranabg/readme-md-generator) by kefranabg, licensed under MIT.
